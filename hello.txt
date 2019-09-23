@@ -7,7 +7,12 @@ hello world
 aaaaaaaaaa
 bbbbbbbbb
 ccccccccccc
-ddddddddd
+dddddddd
 add some context to repo3.hello.txt
 ========================
 ++++++++++++++++++++++++++
+add some content to hello.txt
+000000000000000000000
+cccccccccccccccccccccccc
+hhhhhhhhhhhhhhhhhhhh
+
